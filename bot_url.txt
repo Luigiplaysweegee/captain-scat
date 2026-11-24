@@ -1,0 +1,2 @@
+# Captain Scat bot URL — mates fetch this automatically
+https://shellwoken-production-cfedf3bf.up.railway.app
